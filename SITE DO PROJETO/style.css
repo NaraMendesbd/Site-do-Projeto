@@ -74,7 +74,7 @@ nav a {
 }
 nav a:hover {
 	background-color: #da6666;
-	text-decoration-line: underline;
+	text-decoration: none;
 }
 .container {
 	text-align: justify;
@@ -94,4 +94,8 @@ footer {
 	bottom: 0;
 	width: 100%;
 	padding: 5px;
+}
+#suspensao h4{
+    padding-top: 30px;
+	text-align: right;
 }
